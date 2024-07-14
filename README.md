@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/Flamestroke/Flamestroke/blob/main/deku.gif)
+
 <!--
 **coderx0319/coderx0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
