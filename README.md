@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-### Hi there 👋<br> fellow developers! <br>      I'm Shantnau Vedante, <br>      passionate about full-stack development. <br>     With a knack for crafting clean and efficient code,<br>     I'm always eager to collaborate on innovative projects. <br>     Here, you'll find repositories that reflect my journey <br>     and growth in the tech realm. <br>     Let's build something awesome together! 💡<br><br>
+### Hi there 👋<br> fellow developers! <br>      I'm Shantanu Vedante, <br>      passionate about full-stack development. <br>     With a knack for crafting clean and efficient code,<br>     I'm always eager to collaborate on innovative projects. <br>     Here, you'll find repositories that reflect my journey <br>     and growth in the tech realm. <br>     Let's build something awesome together! 💡<br><br>
 
 
 ## 🌐 Socials:
