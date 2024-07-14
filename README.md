@@ -1,6 +1,6 @@
-### "If I Die, Would You Take Over For Me?" 
+### "I'll Surpass My Limits" 
 
-![](https://github.com/coderx0319/coderx0319/blob/main/el.gif)
+![](https://github.com/coderx0319/coderx0319/blob/main/asta.gif)
 
 <!--
 **coderx0319/coderx0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
