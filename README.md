@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Rupesh-2003&color=a177fe&style=for-the-badge"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=coderx0319&color=a177fe&style=for-the-badge"/>
 </p>
 
 ## 🛠️ My favorite tools
