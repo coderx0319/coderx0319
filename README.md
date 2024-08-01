@@ -72,7 +72,7 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=coderx0319&show_icons=true&theme=aura" />
   &nbsp;
-  <img width="40%" src="https://streak-stats.demolab.com?user=Rupesh-2003&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=coderx0319&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
 </p>
 
 ## 🏆 GitHub Trophies
