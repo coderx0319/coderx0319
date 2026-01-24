@@ -91,7 +91,7 @@ Awarded Best Public Relations Officer Award for effective communication, coordin
 
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shantanuvedante03/)  
-[![Email](https://img.shields.io/badge/Email-Shinjanagvekar%40email.com-red?style=for-the-badge)](mailto:shantanuvedante3@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-shantanuvedante3%40email.com-red?style=for-the-badge)](mailto:shantanuvedante3@gmail.com)  
 
 ---
 
