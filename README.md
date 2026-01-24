@@ -2,7 +2,7 @@
 **Masters in Cybersecurity | Aspiring Cybersecurity Professional | Ethical Hacker | Digital Forensics Enthusiast |**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shantanuvedante03/)  
-[![Email](https://img.shields.io/badge/Email-Shinjanagvekar%40email.com-red?style=for-the-badge)](mailto:shantanuvedante3@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-shantanuvedante%3email.com-red?style=for-the-badge)](mailto:shantanuvedante3@gmail.com)  
 
 Welcome to my cybersecurity portfolio! This repository showcases my **hands-on labs, penetration testing projects, vulnerability assessments, digital forensics work**, and more.
 
