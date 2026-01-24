@@ -15,8 +15,6 @@ I am currently pursuing an MSc in Cyber Security at the University of Kent, Cant
 
 Before moving to the UK, I gained hands-on experience as a Cyber Security Intern at Maharashtra Cyber (Law Enforcement). There, I worked with analysts and investigators on digital forensics, cyber crime investigations, cyber evidence analysis, reporting, and threat intelligence workflows. This exposure showed me how technical skills translate into real cases and real-world impact — and it sparked my long-term interest in digital forensics and cyber investigations.
 
-I hold a Bachelor’s degree in Computer Engineering (CGPI 8.34), where I studied core subjects such as Data Structures, Algorithms, Computer Networks, Operating Systems, DBMS, and Cyber Security. Alongside this, I worked on development projects using React.js, Node.js, MongoDB, MySQL, Firebase, and other web technologies, which strengthened my engineering mindset and problem-solving skills.
-
 Today, I actively improve my skills through:
 
 Hands-on labs
