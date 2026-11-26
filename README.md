@@ -1,97 +1,101 @@
-# Hi, I’m Shantanu Vedante 👩‍💻👋  
-**Masters in Cybersecurity | Aspiring Cybersecurity Professional | Ethical Hacker | Digital Forensics Enthusiast |**
+<h1 align="center">Shantanu Vedante</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shantanuvedante03/)  
-[![Email](https://img.shields.io/badge/Email-shantanuvedante3%40email.com-red?style=for-the-badge)](mailto:shantanuvedante3@gmail.com)  
+<p align="center">
+  <b>Blue Team · SOC Operations · Digital Forensics &amp; Incident Response</b><br>
+  MSc Cyber Security — University of Kent, Canterbury
+</p>
 
-Welcome to my cybersecurity portfolio! This repository showcases my **hands-on labs, penetration testing projects, vulnerability assessments, digital forensics work**, and more.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shantanuvedante03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://shantanuvedantetechie.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:shantanuvedante3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Canterbury,%20UK-012169?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Canterbury, UK">
+</p>
 
----
-
-## 🔹 About Me
-My journey into cybersecurity has been driven by curiosity and a desire to make the digital world safer.
-
-I am currently pursuing an MSc in Cyber Security at the University of Kent, Canterbury, where I’m building strong foundations in network defence, cryptography, security frameworks, risk management, and real-world security practices.
-
-Before moving to the UK, I gained hands-on experience as a Cyber Security Intern at Maharashtra Cyber (Law Enforcement). There, I worked with analysts and investigators on digital forensics, cyber crime investigations, cyber evidence analysis, reporting, and threat intelligence workflows. This exposure showed me how technical skills translate into real cases and real-world impact — and it sparked my long-term interest in digital forensics and cyber investigations.
-
-Today, I actively improve my skills through:
-
-Hands-on labs
-
-Certifications
-
-Research and self-learning
-
-Real-world security scenarios
-
-I’m particularly interested in roles related to:
-
-🔍 Digital Forensics
-
-🛡️ SOC Operations
-
-🚨 Incident Response
-
-🧠 Threat Analysis
-
-🕵️ Cyber Investigations
-
-I enjoy learning how attacks work, how evidence is traced, and how security decisions affect people and organisations.
-I believe cybersecurity is not just about tools — it’s about protecting systems, trust, and society.
-
-I’m always open to collaboration, learning, and security-focused projects that help protect people and technology.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-SOC%20Analyst%20·%20DFIR%20·%20Threat%20Intel-success?style=flat-square" alt="Open to roles">
+</p>
 
 ---
 
-## 🔹 Skills
-**Cybersecurity & Technical:**  
-- Web & Mobile Application Penetration Testing  
-- Vulnerability Assessment (Nessus, Burp Suite, Metasploit)  
-- Secure Code Review  
-- Incident Response & Management  
-- Digital Forensics (Autopsy, Log Analysis)  
-- Red Teaming & Threat Modeling  
-- OWASP Top 10, NIST Cybersecurity Framework  
+## What I do
 
-**Soft & Professional Skills:**  
-- Reporting & Advisory  
-- Cybersecurity Training & Mentorship  
-- Customer Relationship Management  
-- Team Collaboration & Project Delivery  
+I build tools that cut noise for defenders. My work sits where **security operations meets real decision-making** — taking a flood of alerts, CVEs or suspicious emails and turning it into a short, ranked list of things a team should actually do.
 
+I came into cyber through law enforcement, not a lab. As a Cyber Security Intern at **Maharashtra Cyber**, I worked alongside analysts and investigators on digital forensics, cyber crime investigations, evidence analysis and threat intelligence workflows. Seeing how technical findings become real casework is what pushed me toward **SOC operations, incident response and digital forensics** rather than pure offensive security.
+
+I am now completing an **MSc in Cyber Security at the University of Kent**, and I am looking for **SOC Analyst, Security Analyst, DFIR and Threat Intelligence roles in the UK**.
 
 ---
 
-## 🔹 Projects & Labs
-Here are some examples of my hands-on work:  
+## Featured work
 
-| Project | Description | Tech/Tools | Link |
-|---------|-------------|------------|------|
-| **Web App Penetration Testing Lab** | Performed vulnerability assessment and exploited security gaps in a simulated web application | Burp Suite, OWASP Top 10 | [GitHub Link](#) |
-| **Mobile App Security Lab (Android/iOS)** | Conducted static & dynamic analysis of mobile apps and reported vulnerabilities | MobSF, Burp Suite | [GitHub Link](#) |
-| **Digital Forensics Lab** | Investigated disk images, recovered deleted files, and analyzed logs for incident response | Autopsy, Log Analysis | [GitHub Link](#) |
-| **Red Teaming Exercise** | Simulated attacks to test client defenses and provided mitigation strategies | Metasploit, Nessus, Threat Modeling | [GitHub Link](#) |
-| **Secure Code Review** | Analyzed application source code to detect authentication and data-handling vulnerabilities | Manual & Automated Tools | [GitHub Link](#) |
-
-> *You can add more projects as you complete them—replace placeholder links with actual GitHub URLs.*
+| Project | What it does | Stack |
+|---|---|---|
+| **[ThreatLens](https://github.com/coderx0319/ThreatLens-CVE)** 🏆 | Cuts the daily CVE firehose down to the handful affecting your actual stack. Ranks by **real-world exploitability** (CISA KEV + EPSS) rather than CVSS alone, and explains each finding in plain English. *3rd place, CyberHack 2026 (UWS London).* | Python, Streamlit, NVD, CISA KEV, EPSS |
+| **[PhishGuard](https://github.com/coderx0319/PhishGuard)** | Phishing email triage tool. Automates IOC extraction and enriches indicators against **VirusTotal, AbuseIPDB and WHOIS** to support a verdict — the Tier 1 workflow, automated. | Python, threat intel APIs |
+| **[Enterprise SOC Lab](https://github.com/coderx0319/enterprise-soc-lab)** | Build-out of a monitored enterprise environment: log collection, detection logic and alert triage against simulated attacker activity. | SIEM, log analysis, detection engineering |
+| **[MSc Dissertation — Deepfake Detection](https://github.com/coderx0319/msc-deepfakedetection)** | Comparative study of artefacts in modern AI-generated video using multimodal LLMs. Media authenticity as a forensics problem. | Python, Jupyter, MLLMs |
+| **[CVE Translator](https://github.com/coderx0319/cve-translator)** | Team SHADS submission for CyberHack 2026 — the hackathon repo behind ThreatLens. | Python |
 
 ---
 
-## 🔹 Achievements
-Awarded **Maharashtra Cyber Security Internship** Award for outstanding performance and contribution in cyber crime investigation, digital forensics, and security operations
+## Toolbox
 
-Recognized for practical work in cyber evidence analysis and threat intelligence workflows during law enforcement internship
+**Security operations**
+`SIEM & log analysis` `Alert triage` `Detection engineering` `Incident response` `MITRE ATT&CK` `Threat intelligence enrichment`
 
-Awarded Best Public Relations Officer Award for effective communication, coordination, and leadership in academic and professional activities
+**Digital forensics**
+`Autopsy` `Disk image analysis` `File recovery` `Timeline & log forensics` `Evidence handling`
+
+**Offensive & assessment**
+`Burp Suite` `Nessus` `Metasploit` `MobSF` `OWASP Top 10` `Secure code review` `Threat modelling`
+
+**Frameworks**
+`NIST Cybersecurity Framework` `OWASP Top 10` `Risk assessment & reporting`
+
+**Engineering**
+`Python` `Bash` `SQL` `Git` `Streamlit` `Jupyter` `JavaScript / TypeScript`
 
 ---
 
-## 🔹 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shantanuvedante03/)  
-[![Email](https://img.shields.io/badge/Email-shantanuvedante3%40email.com-red?style=for-the-badge)](mailto:shantanuvedante3@gmail.com)  
+## Experience highlight
+
+**Cyber Security Intern — Maharashtra Cyber** *(Law Enforcement)*
+
+Worked with analysts and investigators on live cyber crime casework: digital forensics, cyber evidence analysis, investigation reporting and threat intelligence workflows. Awarded the **Maharashtra Cyber Security Internship Award** for contribution to cyber crime investigation, digital forensics and security operations.
 
 ---
 
-## 🔹 Let’s Collaborate!
-I’m open to **internships, projects, and collaborations** in penetration testing, digital forensics, and cybersecurity research. Feel free to explore my work, give feedback, or get in touch!  
+## Education
+
+**MSc Cyber Security** — University of Kent, Canterbury
+Network defence · cryptography · security frameworks · risk management · applied security practice
+
+---
+
+## Recognition
+
+- 🥉 **3rd Place — CyberHack 2026**, University of the West of Scotland, London *(ThreatLens, built in 5 hours)*
+- 🏅 **Maharashtra Cyber Security Internship Award** — cyber crime investigation, digital forensics and security operations
+- 🗣️ **Best Public Relations Officer Award** — communication, coordination and leadership
+
+---
+
+## Currently
+
+- Deepening **detection engineering** — writing and tuning rules, reducing false positives
+- Building out the **enterprise SOC lab** with broader telemetry and attack simulation
+- Finishing my **MSc dissertation** on deepfake artefact detection
+
+---
+
+## Get in touch
+
+I am open to **SOC Analyst, Security Analyst, DFIR and Threat Intelligence roles across the UK**, and happy to talk about detection engineering, phishing analysis or anything forensics-related.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shantanuvedante03/"><img src="https://img.shields.io/badge/LinkedIn-shantanuvedante03-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shantanuvedante3@gmail.com"><img src="https://img.shields.io/badge/Email-shantanuvedante3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://shantanuvedantetechie.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-shantanuvedantetechie.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
